@@ -10,7 +10,7 @@ Work in progress
 from struct import *
 
 # replace with file to read (I currently have this hardcoded while testing.)
-FILE=r'XXXXXXXXXXXXXXXXX.ttp'
+FILE=r'EOS_00020585a34f4b93bf8c21b3cf8d3150.ttp'
 
 class BinaryReader(object):
   def __init__(self, buffer_object):
